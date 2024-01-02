@@ -7,7 +7,7 @@ questions:
 objectives:
 - "Combine trigger, identification, and isolation information into a full selection for a specific physics process."
 keypoints:
-- "Come back for the discussion session after the break!"
+- "Head to the next page for discussion!"
 ---
 
 All of the trigger and physics object information from this lesson is combined when designing the event selection procedure for a physics analysis.
