@@ -136,7 +136,7 @@ Based on these processes, consider:
 
 ## Applying basic event filters in POET
 
-For Wednesday, due to the large size of the datasets involved, we need to make a pre-filtering or selection to our data.  In this version of POET we have applied the trigger filter shown above, and a basic preliminary lepton filter: 
+When running POET on AOD or MiniAOD files, it is extremely useful to apply basic event filters due to the large size of the datasets involved.  For the analysis example that we will use in the following lessons we have applied the trigger filter shown above, and a basic preliminary lepton filter, by uncommenting this `EDFilter` segment in the `poet_cfg.py` configuration file:
 
 ~~~
 #---- Example of a very basic home-made filter to select only events of interest
